@@ -142,7 +142,7 @@ html, body {
 /*----------Hero section-----------*/
 .herosec{
     height: 600px;
-    background-image: url(hero_img.png);
+    background-image: url(Images/hero_img.png);
     background-size: cover;
     display: flex;
     justify-content: center;
