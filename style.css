@@ -319,12 +319,6 @@ html, body {
 .item {
     text-align: left;
 }
-.shopsec3 .box2 .item img {
-    height: 110px;
-}
-.shopsec3 .box2 .see-more{
-    margin-top: 45px;
-}
 /*----------sign-in section-----------*/
 .sign-in{
     height: 200px;
@@ -494,7 +488,7 @@ ul a:hover{
     text-align: center;
     padding-top: 5px;
 }
-/*------------- Media queries for mobile -------------*/
+/*------------ Media queries for mobile -------------*/
 @media screen and (max-width: 455px){
     .navbar{
         width: 1044px;
