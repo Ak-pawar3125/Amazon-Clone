@@ -9,7 +9,7 @@ Features ✨
 - Fully customizable HTML and CSS structure.
 
 Demo 🎥
-Insert a live demo link or screenshot here:
+
 - Live Demo: https://ak-pawar3125.github.io/Amazon/
 - Screenshot:  
 ![alt text](<Images/demo1.png>) ![alt text](<Images/demo2.png>) ![alt text](<Images/demo3.png>) ![alt text](<Images/demo4.png>) ![alt text](<Images/demo5.png>)
