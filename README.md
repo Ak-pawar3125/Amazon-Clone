@@ -10,7 +10,7 @@ Features ✨
 
 Demo 🎥
 
-- Live Demo: https://ak-pawar3125.github.io/Amazon/
+- Live Demo: https://akankshap-amazon-clone.netlify.app/
 - Screenshot:  
 ![alt text](<Images/demo1.png>) ![alt text](<Images/demo2.png>) ![alt text](<Images/demo3.png>) ![alt text](<Images/demo4.png>) ![alt text](<Images/demo5.png>)
 
