@@ -154,7 +154,7 @@ body {
 }
 
 .navsign-in .icon {
-    font-size: 2rem;
+    font-size: 1rem;
 }
 
 /*-------box5--------*/
@@ -1020,6 +1020,14 @@ ul a:hover {
 @media screen and (min-width: 769px) and (max-width: 1024px) {
     .navbar {
         width: 100%;
+        gap: 0.87rem;
+    }
+    .navsign-in, .returns, .nav-add{
+        padding: 0.2rem;
+    }
+
+    .stateops{
+        padding: 0.5rem;
     }
 
     .herosec {
